@@ -1,5 +1,4 @@
-# killing_3000
-# 🎮 Gamerrrs
+# 🎮 killing_3000
 
 Get FUCKED, bots in CS:GO guardian mode
 
