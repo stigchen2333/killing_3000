@@ -4,8 +4,8 @@
 #include "Offsets.h"
 
 #define dwLocalPlayer 0xD8C2CC
-#define dwEntityList 0x4DA3FA4
-#define dwViewMatrix 0x4D958A4
+#define dwEntityList 0x4DA3F5C
+#define dwViewMatrix 0x4D95874
 
 #define m_dwBoneMatrix 0x26A8
 #define m_iTeamNum 0xF4
