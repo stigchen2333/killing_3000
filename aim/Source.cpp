@@ -3,9 +3,9 @@
 #include <TlHelp32.h>
 #include "Offsets.h"
 
-#define dwLocalPlayer 0xD8E2CC
-#define dwEntityList 0x4DA720C
-#define dwViewMatrix 0x4D98B24
+#define dwLocalPlayer 0xD892CC
+#define dwEntityList 0x4DA20DC
+#define dwViewMatrix 0x4D939F4
 
 #define m_dwBoneMatrix 0x26A8
 #define m_iTeamNum 0xF4
